@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  border-radius: 20px;
+  width: max-content;
+}
+.article-1 {
+  display: flex;
+}
+.perfume {
+  font-size: 25px;
+  color: rgb(143, 142, 142);
+  margin-top: 57px;
+  margin-left: 80px;
+  margin-right: 400px;
+}
+.heading {
+  font-size: 55px;
+  margin-left: 80px;
+  margin-top: 46px;
+  line-height: 60px;
+  font-family: "Alfa Slab One";
+}
+.p-2 {
+  font-size: 24px;
+  line-height: 40px;
+  margin-top: 77px;
+  margin-left: 80px;
+  color: rgb(143, 142, 142);
+}
+.prices {
+  font-size: 55px;
+  display: flex;
+  gap: 30px;
+  margin-top: 72px;
+  margin-left: 80px;
+  color: green;
+  font-family: "Alfa Slab One";
+}
+.old-price {
+  font-size: 28px;
+  color: rgb(143, 142, 142);
+  text-decoration: line-through;
+  font-family: none;
+  padding-top: 20px;
+}
+.button {
+  margin-left: 80px;
+  border: solid green;
+  border-radius: 20px;
+  width: 350px;
+  height: 80px;
+  background-color: green;
+  text-align: center;
+  font-size: 25px;
+  color: aliceblue;
+  margin-top: 73px;
+}
+.grocery-logo {
+  width: 22px;
+}
